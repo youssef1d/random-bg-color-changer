@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+button{
+    width: 150px;
+    height: 40px;
+    border-radius: 13px;
+    background-color: rgb(255, 81, 0);
+    margin-bottom: 20px;
+    color: aliceblue;  
+    
+}
